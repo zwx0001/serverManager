@@ -1,0 +1,23 @@
+.home{
+    width:100%;
+    height:100%;
+    .content{
+        height:100%;
+        width:100%;
+        padding:20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex-shrink: 0;
+        .main{
+            flex:1;
+            background: #eee;
+            padding:10px;
+        }
+        .btn{
+            button{
+                float:right;
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+.home{width:100%;height:100%}.home .content{height:100%;width:100%;padding:20px;display:flex;flex-direction:column;justify-content:space-between;flex-shrink:0}.home .content .main{flex:1;background:#eee;padding:10px}.home .content .btn button{float:right}
